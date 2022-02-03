@@ -1,0 +1,8 @@
+﻿配置：Timeout：90
+邮件地址		结果
+amozon-update-account@ao4m6.shop	ok
+amozon-account-update@ao4m6.shop	ok
+amozon-update@ao4m6.shop	ok
+amozon-account@ao4m6.shop	ok
+amozon-co-jp@ao4m6.shop	ok
+amozon@ao4m6.shop	ok
